@@ -1,0 +1,20 @@
+{
+    "name": "ekart-bot",
+    "description": "Ekart Package Tracking Bot",
+    "repository": "https://github.com/cachecleanerjeet/ekart-bot/Heroku",
+    "logo": "https://telegra.ph/file/1dae85b8f62af3a0dbdc0.jpg",
+    "env": {
+        "APP_NAME": {
+            "description": "Type The App Name That You Type Previously ",
+            "value": ""
+        },
+        "BOT_API_KEY": {
+            "description": "Telegram BOT's API Key",
+            "value": ""
+        },
+        "EKART_API_URL": {
+            "description": "Ekart API URL => https://github.com/cachecleanerjeet/Ekart-API",
+            "value": "https://ekart-api.vercel.app"
+        }
+    }
+}
