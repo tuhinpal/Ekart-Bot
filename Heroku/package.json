@@ -1,0 +1,25 @@
+{
+    "name": "ekart-bot",
+    "version": "2.0.0",
+    "description": "Ekart Package Tracking Bot",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cachecleanerjeet/ekart-bot.git"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "telegraf": "^3.38.0",
+        "request": "^2.88.2"
+    },
+
+    "author": "Tuhin Kanti Pal",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/cachecleanerjeet/ekart-bot/issues"
+    },
+    "homepage": "https://github.com/cachecleanerjeet/ekart-bot#readme"
+}
