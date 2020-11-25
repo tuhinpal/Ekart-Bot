@@ -2,8 +2,9 @@
 
 
 
-### Installation :
-
+### Installation :<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cachecleanerjeet/Ekart-Bot/tree/heroku)<br>
+**Deploy to VPS**<br>
 - Create your Ekart API from here 👇<br>
 <code>https://github.com/cachecleanerjeet/Ekart-API</code>
 - Open settings.js and type Bot's API Key and Ekart API Url
